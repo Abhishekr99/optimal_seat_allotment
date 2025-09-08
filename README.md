@@ -92,12 +92,20 @@ Optional: borrowing (if enabled) allows `x[i,d,b]` where `bay_team[b] ≠ sub_te
 
 We optimize a **single weighted sum** but choose weights **automatically** so it **mimics strict lexicographic priorities**:
 
+**Optimization Priorities**
+
+1. **Missed Days** – Number of required in-office days that a sub-team could not meet (policy compliance).
+2. **Split Days** – Days where a sub-team is forced to sit across multiple bays instead of being together (team cohesion).
+3. **Night Bays** – Count of bays that must remain active for evening/overnight shifts (energy efficiency).
+4. **Borrow Events** – Instances where a sub-team uses a bay owned by another team (ownership/security).
+
 **Priority order (highest → lowest)**
 
 1. **MissedDays**: `Σ_i miss[i]`
 2. **SplitDays**: `Σ_{i,d} z[i,d]`
 3. **NightBays**: `Σ_{b,d} w[b,d]`
 4. **BorrowEvents**: `Σ x[i,d,b]` on non-owner bays (only if borrowing is allowed)
+
 
 Two automatic schemes:
 
