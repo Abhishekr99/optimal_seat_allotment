@@ -1,6 +1,6 @@
 # Seat Allocation — Approach & Settings
 
-This document explains the approach used to generate weekly seat plans from the provided **bays** and **sub-teams** data, the **tunable parameters**, and how the model enforces a **strict (lexicographic) priority** ordering in a **single MILP solve**. It’s written to be dropped into your GitHub repo.
+This document explains the approach used to generate weekly seat plans from the provided **bays** and **sub-teams** data, the **tunable parameters**, and how the model enforces a **strict (lexicographic) priority** ordering in a **single MILP solve**.
 
 ---
 
