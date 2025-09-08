@@ -1,0 +1,24 @@
+SubteamMicro,Mon,Tue,Wed,Thu,Fri,MissedDays
+A1#1,Remote,Seat_A1(25) + Seat_A2(3),Remote,Remote,Seat_A1(25) + Seat_A2(3),1
+A1#2,Seat_A1(4) + Seat_A2(2),Remote,Seat_A1(4) + Seat_A2(2),Seat_A1(6),Remote,0
+A2#1,Seat_A1(21),Remote,Seat_A1(21),Seat_A1(19) + Seat_A2(2),Remote,0
+B1#1,Remote,Remote,Seat_B1(26),Remote,Remote,2
+B2#1,Remote,Remote,Remote,Remote,Seat_B1(23),2
+B3#1,Remote,Seat_B2(2),Seat_B1(2),Seat_B1(2),Seat_B2(2),0
+B4#1,Seat_B1(19),Seat_B1(19),Remote,Seat_B1(19),Remote,0
+C1#1,Seat_C2(63),Seat_C2(63),Seat_C7(63),Remote,Remote,0
+C2#1,Seat_C1(55) + Seat_C2(63) + Seat_C3(11) + Seat_C6(149) + Seat_C7(122),Seat_C1(55) + Seat_C3(11) + Seat_C5(115) + Seat_C6(145) + Seat_C7(74),Seat_C1(1) + Seat_C2(126) + Seat_C3(11) + Seat_C4(82) + Seat_C5(31) + Seat_C6(149),Remote,Remote,0
+C3#1,Seat_C5(84),Seat_C7(84),Seat_C5(84),Remote,Remote,0
+C4#1,Remote,Remote,Remote,Seat_C1(55) + Seat_C2(126) + Seat_C3(11) + Seat_C4(82) + Seat_C5(115) + Seat_C6(149) + Seat_C7(158),Seat_C1(55) + Seat_C2(126) + Seat_C3(11) + Seat_C4(82) + Seat_C5(115) + Seat_C6(149) + Seat_C7(158),1
+C4#2,Seat_C4(76),Seat_C4(76),Seat_C7(76),Remote,Remote,0
+D1#1,Seat_D1(3),Seat_D1(3),Remote,Seat_D4(3),Seat_D1(3),0
+D2#1,Seat_D1(7),Remote,Remote,Seat_D1(7),Seat_D1(7),0
+D3#1,Seat_D1(18),Remote,Remote,Seat_D1(18),Seat_D1(18),0
+D4#1,Seat_D1(4),Remote,Remote,Seat_D1(4),Seat_D1(4),0
+D5#1,Seat_D1(5),Remote,Remote,Seat_D1(5),Seat_D1(5),0
+D6#1,Seat_D1(2),Remote,Remote,Seat_D1(2),Seat_D1(2),0
+D7#1,Remote,Seat_D1(30) + Seat_D2(6) + Seat_D3(5) + Seat_D4(3),Seat_D1(33) + Seat_D2(6) + Seat_D3(5),Remote,Remote,1
+E1#1,Remote,Seat_E1(20) + Seat_E2(171) + Seat_E3(110),Remote,Remote,Seat_E1(20) + Seat_E2(171) + Seat_E3(110),1
+E1#2,Seat_E1(20) + Seat_E2(121) + Seat_E3(110),Remote,Seat_E1(20) + Seat_E2(121) + Seat_E3(110),Seat_E1(20) + Seat_E2(121) + Seat_E3(110),Remote,0
+E2#1,Seat_E2(4),Seat_E2(4),Seat_E3(4),Remote,Remote,0
+E3#1,Seat_E2(19),Seat_E2(19),Seat_E3(19),Remote,Remote,0
